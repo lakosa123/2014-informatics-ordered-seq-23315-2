@@ -56,7 +56,7 @@ private:
     static bool m_verbose;
 };
 
-/// \brief Mactor returning the verbose output text stream.
+/// \brief Macro returning the verbose output text stream.
 ///
 /// It is the text stream for standard output,
 /// if -v command line option is specified, and for /dev/null if not.
